@@ -1,0 +1,17 @@
+.btnNav {
+    width: 150px;
+    height: 30px;
+    border-radius: 50px;
+}
+
+.imagenes {
+    width: 50px;
+    height: 50px;
+}
+
+#logo {
+    background-image: url("../imagenes/logo.png");
+    background-color: #cccccc;
+    width: auto;
+    color: white;
+}
