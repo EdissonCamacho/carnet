@@ -5,10 +5,10 @@ class conexion{
 
     public static function conectar(){
      
-        $nombreServidor="localhost";
-        $baseDatos="carnet";
-        $usuarioServidor="root";
-        $password="";
+        $nombreServidor="bzq6lsly1uu33jnygtpo-mysql.services.clever-cloud.com";
+        $baseDatos="bzq6lsly1uu33jnygtpo";
+        $usuarioServidor="bzq6lsly1uu33jnygtpo";
+        $password="pNXvYGQpOl8BjuOrRzy3";
 
         try {
 
